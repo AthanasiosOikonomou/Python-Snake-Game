@@ -5,7 +5,13 @@ I created this game as side project to learn how to use gui on python.
 ## Getting Started
 
 1. Clone the repository: `git clone https://github.com/Consouldenature/Python-Snake-Game.git`
-2. Run the game: `python main.py`
+2. Run the game: `Snake.exe`
+3. In the folder 'Snake Game Codes' you can find all the python codes for this game.
+
+i. main.py is the main code file used for the game.
+ii. snake.py is the snake body.
+iii. food.py is the food for the snake.
+iv. scoreboard.py is for keeping the score.
 
 ## Demo
 
